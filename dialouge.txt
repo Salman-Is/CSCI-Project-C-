@@ -1,0 +1,166 @@
+[NAR_INTRO]
+Hear the bell, wanderer.
+Long ago, before the roads had names, a crown was forged in Linaura, and it would bend to no head that was weak. 
+The first to wear it was crowned in the ashes of a war, and he rose as an Earl. 
+A divine mortal with the strength of ten thousand. A reign that outlasted the kingdoms around him.
+When an Earl falls, the Sondering Bell tolls, and the crown lies open to any who dare. 
+Ten times it has rung. Ten times the land has burned. 
+Crownseekers have marched from every border to prove themselves in the old way, 
+by blade, by spell, and by blood. Between the wars, Linaura knew centuries of quiet. 
+People forgot the bell was waiting.
+The tenth Earl, Elenora, ruled longest of all. Her name outlived her crown, and her reign wore her thin, 
+until little was left of her but a title and a tired voice. In time, she too was gone.
+The bell rings once more.
+
+With no Earl to keep the world shut, the Defiled Region has torn open at the heart of the land.
+The things from the underworld crawl out into the dark. 
+Warbands from lands beyond cross the borders, and every road is a battlefield. 
+In the high mountains, Castle Norn stands silent, its gates sealed. 
+They will open only for one who has proven worthy of what lies within.
+
+You are a warrior. You have no crown, no prophecy, and no claim, only a sword, a reason, and a long road.
+Take the Earlcrown, end the cycle, or let it turn again. The bell is tolling.
+
+[PART_1]
+======================================================================================================================================
+======================================================================================================================================
+
+[NAR_1]
+You're lying on a creaking bed, and it's dark. You hear muffled murmurs outside.
+You wake to wooden rafters and the patter of rain. Every part of you aches, 
+as if you were taken apart and put back together in a hurry. Your gear is beside you.
+Far beyond the walls, the bell is tolling. It seems as if a Seeker has died somewhere.
+A figure stands at a cabinet across the room, they're back to you, a pale beaked mask pushed up over its face. 
+Glass clinks as they lift a bottle to the candlelight, studies it, and sets it down.
+Hearing you stir, the figure turns around...
+
+[DOCTOR_1]
+Ah, you're awake. You're lucky, most would die from wound's like that...
+You've been out for a few day's. You seek the crown don't you? I serve no threat to you then.
+A crown wouldn't suit me. I'm here to serve the people. Oh, sorry, don't mind the mask.
+It's to shield me from disease, you aren't my only patient, heh.
+
+[DOCTOR_2a]
+My name is Haney, Ruford Haney, Millmore's doctor. 
+Though, in our battle stricken lands I suppose I'm a war surgeon now.
+I'm out here collecting the injured to bring back to the town, and you're one of them.
+It appears your party... didn't make it. I pulled you from a pile of bodies, the only warm one was yours.
+I'm sorry, but it seems like the Blackbane Bandit's took the seals of your friends. 
+I'd suggest you take a few day's to rest to... hold on a minute, do you hear that? 
+
+[DOCTOR_2b]
+You're just outside of Millmore, on the edge of bandit territory. 
+I pulled you from a pile of bodies... friends of your's I suppose? I'm sorry, you alone were warm.
+They're crownseeker seals were taken, likely by Blackbane Bandits, to be sold. It's dangerous out 'ere.
+You see, I'm a surgeon, a war surgeon I suppose, as my infirmaries were burned just days ago.
+The name's Haney, Ruford Haney. You can camp here for a few da... sorry, do you hear that commotion?
+
+[DOCTOR_3]
+By the Bell, it's one thing after another today, a Grimling found it's way onto our camp... 
+I hope the guards can hear the commotion... 
+As I was say-, hold on, where are you headed? You need to rest! Let the guards take care of- WAIT!
+
+[DOCTOR_4]
+By the Bell, you're mad! You could have gotten youself killed in the state you're in!
+Blasted guards, what do we even pay them for? 
+Well, all well and good. It seems as if you are alright. Best of luck to you Crownseeker.
+If you are to try and take the Blackbane's in combat, I suggest you head to Millmore.
+You're strong enough to hold your own, though if you are to succeed, I suggest you speak to Corvin Ash.
+He's a former Knight of Linaura, and he too seeks to destroy the Blackbane Bandit's. He's worth pursuing...
+
+[DOCTOR_5]
+I am a doctor, still. Take this healing potion, it will recover you in a pinch.
+Stay safe out there. Corvin can be a bit brash, but he's good people.
+
+[PART_2]
+======================================================================================================================================
+======================================================================================================================================
+
+[NAR_2]
+You walk north towards Millmore to meet with Corvin Ash.
+Once you reach the small town, you obsorve your surroundings.
+It's a quaint town, without pavement nor public lighting. 
+All that sheilded your shoes from the dirt was a layer of dried, brittle grass.
+In fact, it had very little when it comes to infrastructure.
+It's buildings were made from wood, and had straw roofs.
+There were almost no guards. No wonder this town was a frequent target for the Bandits.
+You walk around aimlessly, and ask around for information on Corvin Ash.
+
+
+[CIVILIAN_1]
+Oh hey there, you're a crownseeker huh? What brings you to Millmore?
+
+[CIVILIAN_2]
+Oh... him. Well uh, we keep away from him. Best left alone you see. He's not really one for small talk.
+I can tell you where he is, but I can't guarantee you'll come out of this with all your fingers intact,
+but first, you'll need to do something for me. 
+
+[CIVILIAN_3a]
+There are fangwolves in my cornfield. Nasty bunch, killed some of my chickens. I'm not a fighter, but you are.
+Defeat 3 of them and bring me their pelt, and the information is yours.
+
+[CIVILIAN_3b]
+Uugh, you fiend! Alright, alright, hes over by the grain silo near the wheat field.
+A bandit, you are, like all the rest! You are unfit for lordship!
+
+[CIVILIAN_4]
+Nicely done, Crownseeker. You're fit for earlship indeed. I shall hold up my end of the deal.
+The man you seek is over by the rusted grain silo near the wheat field.
+Be careful not to insult him, his pride is as strong as his sense of justice.
+I heard he owns a RIFLE. I wouldn't mess with him without a few spells in my back pocket.
+
+[NAR_3]
+You follow his directions and head towards the rusted silo in the distance.
+
+
+[CORVIN_1]
+Thats far enough kid, you lookin' for trouble? 
+The people of this town know to leave me be, so I reckon you're an outsider.
+I suggest you explain yourself quickly for your own sake.
+
+[CORVIN_2]
+Haney sent you. Of course he did.
+He collects more bodies than a fangwolf. Ya really think you're a threat to the Bandits?
+Fine. Corvin. Don't bother telling me your name, I'd only forget it.
+Most things that walk in looking like that don't last long enough to be worth remembering,
+especially one who's after the Crown.
+
+[CORVIN_3]
+S'pose that attack on the river in the outskirts was your party huh?
+I walked through it three days ago. Five bodies and one empty patch of mud
+where somebody got dragged off. I take it you were in that the empty patch?
+Huh. Didn't think someone with wounds like that would show up and bleed on my floor.
+Mind the rug. It's the only nice thing I own, and you're not helping.
+
+[CORVIN_4]
+Bandits don't know the first thing about combat, but they have numbers. 
+They sit at the first bridge they find and wait for someone dumb. 
+What's with the look? You were dumb, ain't a thing you can do about it now.
+
+[CORVIN_5]
+Whatever. There's a camp east of the mill, in an old drying barn. I went alone once.
+Came back with a broken arm. It doesn't lift past the shoulder anymore.
+Two people can do what one couldn't. Even if the second person is, frankly, you.
+You get your friends' seals back, if they still have them. I get a crack at whoever's giving the orders.
+Try not to die in the first minute. I'd hate to waste the walk. You in or out?
+
+[CORVIN_6a]
+Good. We leave at dawn tommorow. You can sleep in that corner over there, good patch of hay.
+Feel free to prepare your weaponry in the meantime.
+
+[CORVIN_6b]
+You don't understand the predicament you're in huh?
+Feel free to have a go at them alone. They took on all six of yeh and you think you can do this alone?
+A bit of an insult to your comrads is it not? Wise up and get some rest, we'll leave at dawn tommorow.
+Feel free to prepare your weaponry in the meantime.
+
+[CORVIN_6c]
+What's in it for you? Do I look like I have a list?
+You get whatever they got, I don't care for stuff. We leave at dawn tommorow.
+Feel free to prepare your weaponry in the meantime.
+
+
+
+[END OF THE FILE]
+This is the end of the file. We needed that tag there because otherwise it might not
+know when to stop. Maybe it wasn't necessary idk i never checked
